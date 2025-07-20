@@ -70,3 +70,4 @@ Time-Bound	Phase 1 done by July 16, working prototype by July 23, final presenta
 | 🛠️ Build/Test | VSCode, Live Server, Localhost |
 
 ---
+Planner Board: https://planner.cloud.microsoft/webui/plan/00tmWQEKW0qG1-LoE2rEFGQAAzq_/view/board?tid=b0626806-ceff-4393-821e-f9a3e666893b
